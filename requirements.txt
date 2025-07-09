@@ -1,5 +1,5 @@
-streamlit
-pandas
+streamlit==1.35.0
+pandas==2.2.2
 scikit-learn==1.2.2
 matplotlib==3.8.4
-joblib
+joblib==1.4.2
